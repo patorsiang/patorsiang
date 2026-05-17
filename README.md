@@ -1,5 +1,9 @@
 # Hi, I’m Pat 👋
 
+<div id="header" align="center">
+  <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairBob&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Blue03&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Eating&skinColor=Light' width="250"/>
+</div>
+
 I’m a full-stack developer based in Thailand, interested in building useful software across web applications, AI/ML systems, cybersecurity practice, and product-focused tools.
 
 My GitHub is a mix of portfolio projects, learning archives, coursework, CTF writeups, and experiments. I like projects that connect engineering with real-world problems — from detecting risky crypto tokens, to building health-tech prototypes, to documenting how I learn.
@@ -64,3 +68,9 @@ Security:   CTF practice, web security basics, secure coding habits
 ---
 
 > I’m using this profile as a living record of what I build, study, and improve over time.
+
+---
+
+### :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patorsiang&theme=dark&background=000000)](https://git.io/streak-stats)
